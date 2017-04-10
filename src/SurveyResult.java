@@ -5,7 +5,7 @@ public class SurveyResult {
 
 
 
-    public SurveyResult(String question, String answer) {
+    public SurveyResult() {
 
         this.question = question;
         this.answer = answer;
